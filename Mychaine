@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Cairo&family=Josefin+Sans:wght@100;200;300;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="Mychaine.css">
+</head>
+<body>
+    <header>
+        <span id="logo">
+            <a href="https://youtube.com/"><h1 id="name">قناتي</h1></a>
+            <a href="https://youtube.com/"><img src="images/image4.jpeg" alt=""></a>         
+        </span>
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">فيديوهات</a></li>
+                <li><a href="#">قوائم التشغيل</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <aside>
+            <img src="images/image1.PNG" alt="">
+            <h1>Mohammed Tarhrout</h1>
+            <div id="media">
+                <a href="www.facebook.com"><img src="images/facebook.png" id="images1"></a>
+                <a href="www.twitter.com"><img src="images/twitter.png" id="images2"></a>
+                <a href="www.Youtube.com"><img src="images/Youtube.png" id="images3"></a>
+                <a href="www.pinterest.com"><img src="images/pinterest.png" id="images4"></a>
+            </div>
+        </aside>
+        <article id="article">
+            <!-- <div id="box"> -->
+                <h1>انا تلميذ في البرمجيات</h1>
+                <p>انا لازلت مبتدا وليست لدي اية خبرة وادرس البرمجة الآن اونلاين من خلال اكاديمية شيار</p>
+            <!-- </div> -->
+        </article>
+    </main>
+    
+    <article id="contenair">
+        <div class="content1" id="content">
+            <a href=""><img src="images/image5.jpg" alt=""></a>
+            <a href=""><img src="images/image6.png" alt=""></a>
+            <a href=""><img src="images/image7.jpg" alt=""></a>
+        </div>
+        <div class="content2" id="content">
+            <a href=""><img src="images/image8.jpg" alt=""></a>
+            <a href=""><img src="images/image9.jpg" alt=""></a>
+            <a href=""><img src="images/image10.jpg" alt=""></a>
+        </div>
+        <div class="content3" id="content">
+            <a href=""><img src="images/image11.jpg" alt=""></a>
+            <a href=""><img src="images/image12.jpg" alt=""></a>
+            <a href=""><img src="images/image13.jpg" alt=""></a>
+        </div>
+    </article>
+    
+</body>
+</html>
